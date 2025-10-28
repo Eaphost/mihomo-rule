@@ -9095,6 +9095,7 @@
 +.static.aottercdn.com
 +.elections.ap.org
 +.capture-api.ap3prod.com
++.ap404
 +.s15-ad.ap4r.com
 +.s16-ad.ap4r.com
 +.s21-ad.ap4r.com
@@ -13015,6 +13016,7 @@
 +.brandiistryincrease.cyou
 +.brandiistrylogical.cyou
 +.brandiistrypopular.cyou
++.brandiistryscale.com
 +.brandiistryscale.cyou
 +.brandiistrysearches.cyou
 +.brandiistrysenna.com
@@ -25922,7 +25924,6 @@
 +.analytics-alv.google.com
 +.analytics.google.com
 +.analyticssuitefrontend-pa.clients6.google.com
-+.appsgrowthpromo-pa.clients6.google.com
 +.cert-test.sandbox.google.com
 +.contributor.google.com
 +.fcmatch.google.com
@@ -34097,6 +34098,7 @@
 +.mgs123.com
 +.mgtmod01.com
 +.as.mgtv.com
++.audit.aaa.mgtv.com
 +.collect.bz.mgtv.com
 +.crash.data.v2.mgtv.com
 +.credits.bz.mgtv.com

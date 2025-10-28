@@ -3,4 +3,5 @@
 +.icloud.com
 +.ip138.com
 +.mac78.com
++.pingouxuan.com
 +.vvword.com
