@@ -1964,7 +1964,6 @@
 +.3bf464d5210261.beer
 +.3bffc26fb1023.beer
 +.3bluemedia.com
-+.api-log.3bmeteo.com
 +.3c0bfa8631023.beer
 +.3c16dbfe610271.beer
 +.3c24d6eb710241.beer
@@ -3788,6 +3787,7 @@
 +.7vid.net
 +.7yahff.cyou
 +.7yucca158.net
++.8
 +.800400.net
 +.8020d8d1b1022.beer
 +.802211e4f1020.beer
@@ -4005,7 +4005,6 @@
 +.884abdff110271.beer
 +.8855-google.com
 +.8866.org
-+.887569ba510251.beer
 +.887c87597d.cc
 +.888.com
 +.8883448.com
@@ -9135,6 +9134,7 @@
 +.api-bdc.net
 +.api-gogles.com
 +.api-live-app.online
++.api-log.3bmet
 +.api-push.com
 +.api-us03web-zoom.com
 +.api168168.com
@@ -13353,6 +13353,7 @@
 +.btnspihedggvk.website
 +.btotqrtz.vip
 +.ads.btrackhub.com
++.trk.btrackhub.com
 +.btrll.com
 +.btrll.net
 +.btstatic.com
@@ -28297,7 +28298,7 @@
 +.iadsnetwork.com
 +.iagrus.com
 +.iaigiri.com
-+.ialysa
++.ialysah.cfd
 +.iam-family-office-sports.com
 +.iam-family-office.com
 +.iamallama.com
@@ -28785,6 +28786,7 @@
 +.behavior-tracking-event-gateway.imweb.me
 +.imwx.com
 +.imxprs.com
++.in-ecom
 +.in-page-push.com
 +.in3x.net
 +.inactionaccompanyingstress.com
@@ -33417,7 +33419,7 @@
 +.news.masslawyersweekly.com
 +.massrelevance.com
 +.usage-tracking.masstransit.io
-+.mastentraxofficial.com
++.mastentrax
 +.wsapi.master.live
 +.masterboot.net
 +.masterbot-claim.fun
@@ -48759,7 +48761,7 @@
 +.splash-screen.net
 +.splashandsunshine.com
 +.third-party-tracking-manager.services.splashthat.com
-+.splendidsugar.com
++.splendidsugar.
 +.segapi.splice.com
 +.splicky.com
 +.events.split.io
@@ -48927,7 +48929,6 @@
 +.tracker.sqreemtech.com
 +.trackerscript.sqreemtech.com
 +.tealium-f.squarecdn.com
-+.data-platform.squarecloudservices.com
 +.squarelovin.com
 +.clanker-events.squarespace.com
 +.events.squarespace.com
@@ -52721,7 +52722,6 @@
 +.trk-tarvalon.com
 +.trk-tristique.com
 +.trk-web.com
-+.trk.
 +.trk.agency
 +.clk.trk144.com
 +.trk2afse.com
