@@ -13353,7 +13353,6 @@
 +.btnspihedggvk.website
 +.btotqrtz.vip
 +.ads.btrackhub.com
-+.trk.btrackhub.com
 +.btrll.com
 +.btrll.net
 +.btstatic.com
@@ -28298,7 +28297,7 @@
 +.iadsnetwork.com
 +.iagrus.com
 +.iaigiri.com
-+.ialysah.cfd
++.ialysa
 +.iam-family-office-sports.com
 +.iam-family-office.com
 +.iamallama.com
@@ -52722,6 +52721,7 @@
 +.trk-tarvalon.com
 +.trk-tristique.com
 +.trk-web.com
++.trk.
 +.trk.agency
 +.clk.trk144.com
 +.trk2afse.com
