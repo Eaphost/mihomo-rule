@@ -1964,6 +1964,7 @@
 +.3bf464d5210261.beer
 +.3bffc26fb1023.beer
 +.3bluemedia.com
++.api-log.3bmeteo.com
 +.3c0bfa8631023.beer
 +.3c16dbfe610271.beer
 +.3c24d6eb710241.beer
@@ -3787,7 +3788,6 @@
 +.7vid.net
 +.7yahff.cyou
 +.7yucca158.net
-+.8
 +.800400.net
 +.8020d8d1b1022.beer
 +.802211e4f1020.beer
@@ -4005,6 +4005,7 @@
 +.884abdff110271.beer
 +.8855-google.com
 +.8866.org
++.887569ba510251.beer
 +.887c87597d.cc
 +.888.com
 +.8883448.com
@@ -9134,7 +9135,6 @@
 +.api-bdc.net
 +.api-gogles.com
 +.api-live-app.online
-+.api-log.3bmet
 +.api-push.com
 +.api-us03web-zoom.com
 +.api168168.com
@@ -13015,7 +13015,6 @@
 +.brandiistryincrease.cyou
 +.brandiistrylogical.cyou
 +.brandiistrypopular.cyou
-+.brandiistryscale.com
 +.brandiistryscale.cyou
 +.brandiistrysearches.cyou
 +.brandiistrysenna.com
@@ -28786,7 +28785,6 @@
 +.behavior-tracking-event-gateway.imweb.me
 +.imwx.com
 +.imxprs.com
-+.in-ecom
 +.in-page-push.com
 +.in3x.net
 +.inactionaccompanyingstress.com
@@ -33419,7 +33417,7 @@
 +.news.masslawyersweekly.com
 +.massrelevance.com
 +.usage-tracking.masstransit.io
-+.mastentrax
++.mastentraxofficial.com
 +.wsapi.master.live
 +.masterboot.net
 +.masterbot-claim.fun
@@ -34099,7 +34097,6 @@
 +.mgs123.com
 +.mgtmod01.com
 +.as.mgtv.com
-+.audit.aaa.mgtv.com
 +.collect.bz.mgtv.com
 +.crash.data.v2.mgtv.com
 +.credits.bz.mgtv.com
@@ -48761,7 +48758,7 @@
 +.splash-screen.net
 +.splashandsunshine.com
 +.third-party-tracking-manager.services.splashthat.com
-+.splendidsugar.
++.splendidsugar.com
 +.segapi.splice.com
 +.splicky.com
 +.events.split.io
@@ -48929,6 +48926,7 @@
 +.tracker.sqreemtech.com
 +.trackerscript.sqreemtech.com
 +.tealium-f.squarecdn.com
++.data-platform.squarecloudservices.com
 +.squarelovin.com
 +.clanker-events.squarespace.com
 +.events.squarespace.com
