@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2230,7 +2231,6 @@
 +.axios.com
 +.axureformac.com
 +.ayabank.com
-+.aydrebeats.com
 +.ayshdade.info
 +.ayshdee.xyz
 +.ayudanintendo.com
@@ -2591,7 +2591,6 @@
 +.beatsbydrecheaponlinesales.com
 +.beatsbydrecolors.com
 +.beatsbydrecustomwireless.com
-+.beatsbydrecyb+.aaa
 +.beatsbydrecybermondaydeals2013.com
 +.beatsbydrecybermondaydeals2013.net
 +.beatsbydredanmarks.com
@@ -4642,7 +4641,6 @@
 +.codecademy.com
 +.codeforces.com
 +.codeish.co
-+.codeish.com
 +.codeplex.com
 +.codeskulptor.org
 +.codespot.com
@@ -6408,7 +6406,6 @@
 +.eriversoft.com
 +.erktv.com
 +.erlang.org
-+.ermondaydeals2013.com
 +.ernestmandel.org
 +.erni
 +.ero-anime.net
@@ -11001,6 +10998,7 @@
 +.joinmastodon.org
 +.joins.com
 +.joinside.org
++.joinsquad.com
 +.jokerlu-go.buzz
 +.jokerlu.asia
 +.jokerlu.world
@@ -14036,7 +14034,6 @@
 +.nsimg.net
 +.nsstatic.net
 +.nssurge.com
-+.nstnam.com
 +.ntc.party
 +.ntd.com
 +.ntd.tv
@@ -14234,6 +14231,8 @@
 +.officialdrdre.com
 +.officialheadphone.com
 +.offrezdesipods.com
++.offworldindustries.com
++.offworldindustries.net
 +.ofile.org
 +.ogameblog.com
 +.ogaoga.org
