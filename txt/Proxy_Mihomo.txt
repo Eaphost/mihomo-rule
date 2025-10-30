@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -13558,7 +13559,6 @@
 +.nest.com
 +.neswangy.net
 +.net-fits.pro
-+.net.com.hk
 +.netacad.com
 +.netacad.net
 +.netalert.me
@@ -20340,7 +20340,6 @@
 +.wikiversity.org
 +.wikivoyage.org
 +.wikiwand.com
-+.wikiwiki.jp000webhost.com
 +.wiktionary.org
 +.wildammo.com
 +.wildcamporn.com
