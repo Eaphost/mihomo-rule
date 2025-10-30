@@ -8,7 +8,7 @@ on:
       - 'rules/**'
     branches: [ main ]
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 8,12,18 * * *"
   workflow_dispatch:
 
 env:
