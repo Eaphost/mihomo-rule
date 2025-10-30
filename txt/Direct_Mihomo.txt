@@ -1,4 +1,5 @@
 +.5v13.com
++.7b2.com
 +.apple.com
 +.ctfile.com
 +.foxirj.com
@@ -12,11 +13,15 @@
 +.lizhi.io
 +.lovestu.com
 +.mac78.com
++.mairuan.com
 +.makeding.com
 +.miwap.com
 +.pingouxuan.com
 +.quark.cn
 +.tfbkw.com
++.tv002.com
++.tv003.com
++.tv004.com
 +.ustc.edu.cn
 +.vvword.com
 +.www.right.com.cn
