@@ -675,7 +675,7 @@
 +.0f8b5c6cfebb.top
 +.0fad5619d389f817.com
 +.0fb2a14847826702.com
-+.0fbf226571026
++.0fbf2265710261.beer
 +.0fbffb0e510301.beer
 +.0fc0886b410292.beer
 +.0fc53c04b9d8.com
@@ -4728,6 +4728,7 @@
 +.61cf10ce240b540e.com
 +.61d7b784c11011.beer
 +.61d7c9df310311.beer
++.61db76efdec76096.com
 +.61dcbe85210291.beer
 +.61e17faa611011.beer
 +.61e315b21a23.top
@@ -10569,7 +10570,7 @@
 +.log.aispeech.com
 +.aistekso.net
 +.ads.aistrm.net
-+.japanairlinescoltd.tt.omb-ww.cf.videorolls.row.aiv-cdn.net
++.s3-dub-ww.cf.videorolls.row.aiv-cdn.net
 +.s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 +.api.eu-west-1.aiv-delivery.net
 +.api.us-east-1.aiv-delivery.net
@@ -42387,7 +42388,6 @@
 +.ads-tag.omsrtb.com
 +.tracker-b.omsrtb.com
 +.tracker.omsrtb.com
-+.nbcuniversal.sc.omtrdc.ne
 +.1und1.de.ssl.sc.omtrdc.net
 +.247sports.com.ssl.sc.omtrdc.net
 +.3m.com.ssl.sc.omtrdc.net
@@ -42933,6 +42933,7 @@
 +.it.ssl.d2.sc.omtrdc.net
 +.jacksonnationallifei.tt.omtrdc.net
 +.jaguar.tt.omtrdc.net
++.japanairlinescoltd.tt.omtrdc.net
 +.java.com.ssl.d1.sc.omtrdc.net
 +.jbhunt.tt.omtrdc.net
 +.jcpenney.com.ssl.sc.omtrdc.net
@@ -43090,6 +43091,7 @@
 +.nbcnews.com.ssl.sc.omtrdc.net
 +.nbcume.sc.omtrdc.net
 +.nbcuni.com.ssl.sc.omtrdc.net
++.nbcuniversal.sc.omtrdc.net
 +.ncmec.tt.omtrdc.net
 +.ncspteltd.sc.omtrdc.net
 +.neimanmarcus.com.ssl.sc.omtrdc.net
@@ -50508,7 +50510,6 @@
 +.s2d6.com
 +.s2stracking.com
 +.s3-ap-southeast-1-amazonaws.com
-+.s3-dut
 +.s3-id782.com
 +.s38583929.world
 +.s3blog.org
