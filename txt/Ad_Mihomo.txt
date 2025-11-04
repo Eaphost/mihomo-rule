@@ -17825,7 +17825,7 @@
 +.cb985328410301.beer
 +.cba4a6e5d3c956548a337c52388473f1.com
 +.cba5f856e11031.beer
-+.cba9e054
++.cba9e054d11031.beer
 +.cba9fb05b11021.beer
 +.cbarsrv.com
 +.cbb0bce1e10281.beer
@@ -22963,7 +22963,7 @@
 +.digitalaudience.io
 +.hawk.digitalcameraworld.com
 +.digitalcaramel.com
-+.digitalclickstime.com
++.digitalclicksti
 +.digitalcollege.org
 +.digitaldesire.com
 +.digitaldoughnut.com
