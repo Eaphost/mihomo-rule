@@ -9,6 +9,7 @@
 +.hxino.com
 +.icloud.com
 +.ip138.com
++.ipjisuanqi.com
 +.juziseo.com
 +.koolcenter.com
 +.link3.cc
