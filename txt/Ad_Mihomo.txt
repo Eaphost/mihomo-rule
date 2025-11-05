@@ -1181,7 +1181,7 @@
 +.193d5c08410292.beer
 +.193e6c02305a6036.com
 +.1940191e713fece8.com
-+.1943f7bde9fb744
++.1943f7bde9fb744e.com
 +.194811763595c71d.com
 +.194ddebe93b7a791.com
 +.195f5296a43ef933.com
@@ -2586,7 +2586,7 @@
 +.3650967a610281.beer
 +.36529782b72b26e0.com
 +.3657ba01811021.beer
-+.365dmp
++.365dmp.com
 +.365huo.xyz
 +.secure.365insightcreative.com
 +.365inspiredperceptive.com
@@ -3452,7 +3452,7 @@
 +.493f36c75acb8541.com
 +.493fbe63e11021.beer
 +.494145-coinbase.com
-+.49474df53103
++.49474df5310301.beer
 +.495c1353511011.beer
 +.4962a7e149b3bf1a.com
 +.4969262e211032.beer
@@ -5371,7 +5371,7 @@
 +.76511c54ce23e6c0.com
 +.7651884eb11031.beer
 +.765b6877310301.beer
-+.7666439efd80a64f10e5a5b12d7298c
++.7666439efd80a64f10e5a5b12d7298c7.com
 +.76669e7c410292.beer
 +.76681f9610f175c6.com
 +.766888df4445.top
@@ -13514,6 +13514,7 @@
 +.clarity-ingest-eus-b-sc.eastus.cloudapp.azure.com
 +.clarity-ingest-eus-c-sc.eastus.cloudapp.azure.com
 +.clarity-ingest-eus-sc.eastus.cloudapp.azure.com
++.clarity-ingest-eus2-sc.eastus2.cloudapp.azure.com
 +.coreplatform-influxdb-metrics-prod.northeurope.cloudapp.azure.com
 +.countly-ctps.westeurope.cloudapp.azure.com
 +.eastus2-ads.eastus2.cloudapp.azure.com
@@ -19226,6 +19227,7 @@
 +.doubleverify.com.cdn.cloudflare.net
 +.dsp-adcreative.mobshark.net.cdn.cloudflare.net
 +.eu2-track.inside-graph.com.cdn.cloudflare.net
++.eu4-track.inside-graph.com.cdn.cloudflare.net
 +.f.convertkit.com.cdn.cloudflare.net
 +.frontend-event-api.hostinger.com.cdn.cloudflare.net
 +.globale-analytics-sdk.global-e.com.cdn.cloudflare.net
@@ -20286,6 +20288,7 @@
 +.connexity.net
 +.connextra.com
 +.conohawing.com
++.consciouslifenews.com
 +.track.consensus.app
 +.conservativedailypost.com
 +.consoliads.com
@@ -24740,7 +24743,6 @@
 +.same.eastmoney.com
 +.eastrk-dn.com
 +.eastrk-lg.com
-+.clarity-ingest-eus2-sc.eastus2.cloudap
 +.ttarget.eastwestbank.com
 +.easy-ads.com
 +.easy-dating.life
@@ -32138,6 +32140,7 @@
 +.evt.houzz.com
 +.howdoesin.net
 +.howelmyelins.com
++.howlapm.com
 +.howtofix.guide
 +.s.howtoforge.com
 +.howuku.com
