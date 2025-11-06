@@ -947,6 +947,7 @@
 +.airwatchexpress.com
 +.airwatchqa.com
 +.airwick.com
++.airwick.derg
 +.airwick.net
 +.airwick.tv
 +.airwickarabia.com
@@ -18582,6 +18583,7 @@
 +.tibetaction.net
 +.tibetaid.org
 +.tibetalk.com
++.tibetan-alliance.o000webhost.com
 +.tibetan-alliance.org
 +.tibetanaidproject.org
 +.tibetanarts.org
