@@ -611,6 +611,7 @@
 +.aboutgfw.com
 +.aboutmcdonalds.com
 +.aboutporno.net
++.aboutschwab.com
 +.aboutyourmini.com
 +.abpchina.org
 +.abplive.com
@@ -7218,6 +7219,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.ficbook.net
 +.ficeboock.com
 +.fictionmania.tv
 +.fidelity
@@ -7999,12 +8001,20 @@
 +.futanarihq.com
 +.futhead.com
 +.futpromos.com
++.futuesop.com
++.futufin.com
++.futuhk.com
++.futuhn.com
++.futuholdings.com
 +.futunited.com
++.futuniuniu.com
++.futunn.com
 +.futurechinaforum.org
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
++.futustatic.com
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
@@ -8308,6 +8318,8 @@
 +.ggoogle.com
 +.ggpds.com
 +.ggpht.com
++.ggsel.com
++.ggsel.net
 +.ggsrv.com
 +.ggssl.com
 +.gh
@@ -10591,6 +10603,9 @@
 +.itgonglun.com
 +.ithaisex.com
 +.itiger.com
++.itigergrowth.com
++.itigergrowtha.com
++.itigerup.com
 +.itnel.com
 +.itools.info
 +.itripto.com
@@ -12950,6 +12965,9 @@
 +.monthlyav.com
 +.moodstocks.com
 +.moodyz.com
++.moomoo.com
++.moomooequity.com
++.moomootrustee.com
 +.moonbbs.com
 +.moonbbs.info
 +.moonbingo.com
@@ -16643,6 +16661,10 @@
 +.schiffvitamins.com
 +.schmidt
 +.scholarpedia.org
++.schwab.com
++.schwab.com.hk
++.schwabassetmanagement.com
++.schwabplan.com
 +.schwarz
 +.sci-hub.mksa.top
 +.sci.hubg.org
