@@ -567,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -731,6 +730,7 @@
 +.adobejanus.com
 +.adobeku.com
 +.adobelanding.com
++.adobelogi+.aaa
 +.adobelogin.com
 +.adobeoobe.com
 +.adobeplatinumclub.com
@@ -13404,6 +13404,7 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
++.n.com
 +.n0vadesktop.com
 +.n15zev3w.shop
 +.n26.com
