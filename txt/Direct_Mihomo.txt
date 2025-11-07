@@ -13,6 +13,7 @@
 +.juziseo.com
 +.koolcenter.com
 +.link3.cc
++.linux.do
 +.lizhi.io
 +.lovestu.com
 +.mac78.com
