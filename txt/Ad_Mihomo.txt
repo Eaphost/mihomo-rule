@@ -49020,7 +49020,6 @@
 +.mon.sgsnssdk.com
 +.pangolin16.sgsnssdk.com
 +.sgstats.com
-+.sgtm.idmobile
 +.sgukrwvyvi.com
 +.x680.sgvtribune.com
 +.sh-jiyou.com
