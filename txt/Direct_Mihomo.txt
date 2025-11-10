@@ -37,6 +37,7 @@
 +.miwap.com
 +.pan-yz.cldisk.com
 +.pingouxuan.com
++.qjian.net
 +.quark.cn
 +.taobao.com
 +.tfbkw.com
