@@ -244,7 +244,6 @@
 +.0n35mallw0rld.xyz
 +.0network.com
 +.0pengl.com
-+.0snw78.lat
 +.0vtx1gfc.xyz
 +.0wwdo226yexm.top
 +.0x1f4b0.com
@@ -449,7 +448,6 @@
 +.count.mail.163.com
 +.countly.mail.163.com
 +.crash.163.com
-+.dl.reg.163.com
 +.fa.163.com
 +.fl.reg.163.com
 +.fp-upload.dun.163.com
@@ -1694,7 +1692,6 @@
 +.5218b8e8a11032.beer
 +.522-google.com
 +.523844f2111031.beer
-+.52425267.xyz
 +.5248be5c711021.beer
 +.5265125.xyz
 +.528bd422da56.com
@@ -5953,6 +5950,7 @@
 +.analytics.aklamio.com
 +.akohub.com
 +.akokiolk.icu
++.akoora-live.com
 +.akpsxcf.com
 +.akro.io
 +.aks2ak4.sbs
@@ -7108,8 +7106,6 @@
 +.anakuwu.top
 +.analaxadulatory.com
 +.analights.com
-+.analisehojefacil.site
-+.analiseshojefacil.site
 +.analisis.io
 +.analitits.com
 +.analitycs.net
@@ -7537,6 +7533,7 @@
 +.identity-api.appdynamics.com
 +.portal.appdynamics.com
 +.saas.appdynamics.com
++.appeal-apple.com
 +.appeq.ai
 +.apperio.com
 +.trk.apperol.com
@@ -7565,6 +7562,7 @@
 +.rtb2-uswest.applabs.live
 +.static-rtb2.applabs.live
 +.sdkapicdn.applanga.com
++.apple-79club.com
 +.apple-apps-soporte.com
 +.apple-consultants.eu
 +.apple-design.cn
@@ -7758,6 +7756,7 @@
 +.appxigo.com
 +.appyet.com
 +.apqmkz8trk.com
++.apricot-office.com
 +.aprilads.space
 +.aproveiteseuresgate.click
 +.aproveiteseuresgate.info
@@ -10016,6 +10015,7 @@
 +.bestadsrv.com
 +.bestageandinone.org
 +.bestanimegame.com
++.bestbailers.com
 +.bestboundary.com
 +.context.bestbuy.com
 +.fel-api.prod.browse.bestbuy.com
@@ -10845,6 +10845,7 @@
 +.blushingbeast.com
 +.blushingbread.com
 +.bluyypff.xyz
++.blzgeuuz.icu
 +.bm-ads.io
 +.bmbsgo.com
 +.bmcdn3.com
@@ -13817,6 +13818,7 @@
 +.analytics.cloudevo.ai
 +.cloudfastin.top
 +.cloudfilt.com
++.cloudflare-check.cc
 +.csp-reporting.cloudflare.com
 +.ip-check-perf.radar.cloudflare.com
 +.nel.cloudflare.com
@@ -14079,6 +14081,7 @@
 +.cloudlogobox.com
 +.cloudmade.com
 +.telemetry.cloudmediahive.net
++.cloudmega.org
 +.cloudmentor.shop
 +.cloudmobi.net
 +.sentry-api.cloudresearch.com
@@ -14177,6 +14180,7 @@
 +.ad.cnki.net
 +.track.oversea.cnki.net
 +.webcert.cnmstl.net
++.cnn-456.com
 +.cnn-emissao.site
 +.cnn-eranews.com
 +.cnn-es.online
@@ -14215,7 +14219,6 @@
 +.cnv.cx
 +.cnvlink.com
 +.cnvr.net
-+.cnwucnf.top
 +.cnxly.com
 +.cnzh-wps-office.com
 +.cnzz.cn
@@ -14537,6 +14540,7 @@
 +.fancydigital.com.cn
 +.fzpress.com.cn
 +.google-chrome-edge.com.cn
++.google-cp.com.cn
 +.google-zone.com.cn
 +.headoffice.com.cn
 +.hoffice.com.cn
@@ -14626,6 +14630,7 @@
 +.wxaintpcos.wxqcloud.qq.com.cn
 +.yahoo.com.cn
 +.yoyi.com.cn
++.zh-wps-office.com.cn
 +.zlflawoffice.com.cn
 +.zsmba.com.cn
 +.google-analytics.com.com
@@ -17582,6 +17587,7 @@
 +.dodsman.com
 +.dodstep.cyou
 +.doersadv.com
++.does-reddit-like-me.com
 +.doethemydea.com
 +.doffice.cn
 +.doftighaiwuh.net
@@ -18639,6 +18645,7 @@
 +.easysplashbuilder.net
 +.easytodayem.com
 +.easytomessage.com
++.eat-to-live.com
 +.eatcells.com
 +.eathealthy365.com
 +.track.eatingwell.com
@@ -18740,6 +18747,7 @@
 +.track.eclairdusktwineversailles.site
 +.eclatoffice.info
 +.eclicks.cn
++.ecm-ip.com
 +.pulse.ecmapps.com
 +.ecnerbyvemubdt.com
 +.metrics.lighting.ecobee.com
@@ -21008,6 +21016,7 @@
 +.finbasex.com
 +.finbitvex-prestizapp.com
 +.find-apple-in.com
++.find-apple-info.com
 +.find-girls-now.com
 +.find-google-map.live
 +.find-ip-address.org
@@ -21390,6 +21399,7 @@
 +.fm9u44fkpnioljl3hkcocgzekrhi2.cfd
 +.fmgitnxalekei.website
 +.fmhy.click
++.fmicheck-apple.com
 +.loader.fmkorea.com
 +.fml-x.com
 +.fmlabsonline.com
@@ -23299,6 +23309,7 @@
 +.godkc.com
 +.plausible.godot.foundation
 +.godpvqnszo.com
++.godrej-azure-chennai.com
 +.godsave.lgbt
 +.godschildrenaf.org
 +.godseedband.com
@@ -23442,6 +23453,7 @@
 +.google-advs.com
 +.google-analytics.com
 +.google-api-cloud.com
++.google-career.com
 +.google-certified.com
 +.google-find-map.live
 +.google-found.live
@@ -23454,6 +23466,7 @@
 +.google-maps.net
 +.google-messages.com
 +.google-oauth.com
++.google-rcp.com
 +.google-rcp.info
 +.google-rcp.org
 +.google-rcp.store
@@ -24159,6 +24172,7 @@
 +.halfabubbleout.com
 +.halferupgale.shop
 +.halfpricefurniturestore.com
++.halfyearturf.com
 +.halldanc.cfd
 +.halldata.com
 +.hallksmall.icu
@@ -24500,6 +24514,7 @@
 +.help-apple.info
 +.help-balancer.com
 +.help-netflix-actu.com
++.help-twitch.com
 +.widget.helpcrunch.com
 +.helpdesk-tech.com
 +.helpedmirth.com
@@ -25171,6 +25186,32 @@
 +.hjbotih.cc
 +.hjlhzdhkwmhhq.site
 +.hjvkhvvlsb.com
++.hk-aas-whatsapp.com
++.hk-aqc-whatsapp.com
++.hk-ayw-whatsapp.com
++.hk-bzj-whatsapp.com
++.hk-cgs-whatsapp.com
++.hk-css-whatsapp.com
++.hk-cyq-whatsapp.com
++.hk-hdt-whatsapp.com
++.hk-hzr-whatsapp.com
++.hk-iku-whatsapp.com
++.hk-iqq-whatsapp.com
++.hk-iyo-whatsapp.com
++.hk-iys-whatsapp.com
++.hk-jnp-whatsapp.com
++.hk-kes-whatsapp.com
++.hk-mmq-whatsapp.com
++.hk-nrr-whatsapp.com
++.hk-ooa-whatsapp.com
++.hk-qcq-whatsapp.com
++.hk-ssg-whatsapp.com
++.hk-tph-whatsapp.com
++.hk-txr-whatsapp.com
++.hk-uew-whatsapp.com
++.hk-uys-whatsapp.com
++.hk-wia-whatsapp.com
++.hk-yyg-whatsapp.com
 +.track.hk01.com
 +.logs.hkhphr.com
 +.error.hkitalk.net
@@ -27865,6 +27906,7 @@
 +.jnwucna.top
 +.joapheepemeeth.net
 +.joathath.com
++.job-netflix.com
 +.jobadx.com
 +.jobamatic.com
 +.jobo.cc
@@ -29976,6 +30018,7 @@
 +.live-didiao-kanqiu.com
 +.live-dirt.com
 +.live-email.fun
++.live-fbsite.com
 +.live-feilvbin.com
 +.live-forever-health.com
 +.live-game-show.com
@@ -29993,6 +30036,7 @@
 +.live-in-love.store
 +.live-is-life.com
 +.live-jasmin.eu
++.live-launcher.com
 +.live-legal-clarity.com
 +.live-lesports.com
 +.live-livpure-buy.com
@@ -30032,12 +30076,14 @@
 +.live-viaxapp.com
 +.stats.live-video.net
 +.live-vip-kaiyungroup.com
++.live-visitors.com
 +.live-wc28.com
 +.live-web-kaiyungroup.com
 +.live-welcome-kaiyungroup.com
 +.live-winz.com
 +.live-wire.news
 +.live-xaip.xyz
++.live-yoosport.com
 +.live-zh-ayx.com
 +.live-zh-kaiyungroup.com
 +.live-zh-kering.com
@@ -30976,7 +31022,6 @@
 +.newsmetrics-analytics-ping.malaysiakini.com
 +.malaysianscoop.com
 +.malcare.me
-+.maliyetrsorgu.org
 +.malkm.com
 +.mall-musiceasy.com
 +.mall60.com
@@ -31380,6 +31425,7 @@
 +.mddlsa.com
 +.mddsp.info
 +.mdfull.com
++.mdhotidv.com
 +.mdhv.io
 +.mdialog.com
 +.tracking.mdl.io
@@ -33167,6 +33213,7 @@
 +.my-ip.io
 +.exp-api.my-jewellery.com
 +.my-live-kaiyungroup.com
++.my-office.me
 +.my-qq-live.com
 +.my-search-page.com
 +.tracking.my-sexy-place.com
@@ -33576,7 +33623,6 @@
 +.smetrics.nasdaq.com
 +.nashickaltirdab.com
 +.nasimobi.com
-+.naskkr.com
 +.nasrolrt.com
 +.nastydollars.com
 +.metrics-dpv.api.nasuni.com
@@ -33675,6 +33721,7 @@
 +.jp-col-ext.nelo.navercorp.com
 +.kr-col-ext.nelo.navercorp.com
 +.nelo2-col.navercorp.com
++.naverkr.com
 +.navi2.com
 +.naviant.com
 +.naviflu.com
@@ -33844,6 +33891,7 @@
 +.nesox.com
 +.servertag.nespresso.com
 +.nessainy.net
++.nest-office.com
 +.nestledmph.com
 +.nestleservers.xyz
 +.ycembr.net-a-porter.com
@@ -35013,6 +35061,7 @@
 +.office-customersharpoint365.one
 +.office-dahlia.com
 +.office-decoration.com
++.office-endo.com
 +.office-gpt.info
 +.office-hoffheim.com
 +.office-hofhiem.com
@@ -35020,6 +35069,7 @@
 +.office-kei.net
 +.office-ki.info
 +.office-kiosk.com
++.office-kume.com
 +.office-labs.com
 +.office-metbau.com
 +.office-michiru.com
@@ -43364,6 +43414,7 @@
 +.sarmandelonix.sbs
 +.sarodesdonnot.com
 +.ci360.sas.com
++.sasakura-office.com
 +.apps.sascdn.com
 +.ced-ns.sascdn.com
 +.ced.sascdn.com
@@ -43512,6 +43563,7 @@
 +.1.chipde.damoh.schneevonmorgen.com
 +.schochedueful.com
 +.scholarlyiq.com
++.scholarshipexplosivepopular.com
 +.analytics.scholarsportal.info
 +.sstats.scholastic.com
 +.schoolcl.digital
@@ -44288,7 +44340,6 @@
 +.sentry.offline.shelopes.com
 +.shemedia.com
 +.shempaurdou.net
-+.shemrec.cc
 +.shenajou.com
 +.shengfleming.com
 +.shenshiads.com
@@ -44795,6 +44846,7 @@
 +.sixmedia.online
 +.sixpants.com
 +.sixscissors.com
++.sizeer-pl.top
 +.sizeer-sale.store
 +.sizeerrpl-vip.shop
 +.sizmek.com
@@ -45068,7 +45120,6 @@
 +.stats.gcp.smartmailcloud.com
 +.smartmeapp.com
 +.smartmetrics.rocks
-+.ads.smartmidea.net
 +.smartmnews.pro
 +.smartnews-ads.com
 +.ads.smartnews.com
@@ -46593,6 +46644,7 @@
 +.sublytics-600afc6bd3e89.com
 +.xy.submissblawort.com
 +.submissivejuice.com
++.submit-apple.com
 +.log-abroad-ups.submitdata.top
 +.analytics-collection.submittable.com
 +.subportgommier.top
@@ -47887,6 +47939,7 @@
 +.trk.the-best-path-wayang.com
 +.the-bitcoinpro.com
 +.the-drawing-office.com
++.the-live-design-studio.com
 +.the-ozone-project.com
 +.ads.the-sun.com
 +.hvrhgt.the-sun.com
@@ -51234,6 +51287,7 @@
 +.vbetua1.com
 +.i49.vbox7.com
 +.vbtrax.com
++.vc-tiktok.com
 +.vcdc.com
 +.vcddkls.biz
 +.sentry.vchat-onlie.com
@@ -52332,6 +52386,7 @@
 +.vwo.com
 +.vwoamqat.com
 +.logger.vwonehub.io
++.vwowvu9ha.com
 +.vws4brkfst.com
 +.vxcauxyaabqub.online
 +.vxcewh.cn
@@ -52683,18 +52738,24 @@
 +.weatherplllatform.com
 +.sgtm.weathertech.com
 +.weaveworkingheaviness.com
++.web-aee-whatsapp.cc
 +.web-boosting.net
 +.web-contrat-ulys.com
 +.web-counter.net
++.web-eau-whatsapp.cc
 +.web-facture-ulys.com
 +.track.web-fast.top
 +.web-interface.eu
++.web-kuo-whatsapp.cc
 +.web-live-whatsappweb.com
++.web-mkg-whatsapp.cc
 +.web-panel.online
 +.web-set.com
++.web-sok-whatsapp.cc
 +.web-space.site
 +.web-stat.com
 +.web-trackers.com
++.web-ueq-whatsapp.cc
 +.web-ulyspeage.com
 +.web-whatsapp-pfz.cc
 +.web-zoom-whatsappweb.com
@@ -53542,6 +53603,7 @@
 +.wordmenmamona.rest
 +.wordnerds.ai
 +.wordpress-ai-theme.com
++.wordpress-baukasten.com
 +.wordpress-deploy-staging.xyz
 +.wordpress-hire.com
 +.wordpress-kursus.net
@@ -54190,6 +54252,7 @@
 +.stan.xing.com
 +.xingba888.today
 +.xingu-ad.com
++.xingxings.cc
 +.cdn.xinstall.com
 +.xinzuqiu-live-qq.com
 +.xiphiidbachel.com
@@ -54533,6 +54596,7 @@
 +.yalla-shoot-tv-live.com
 +.clog.yalla.games
 +.clog.yallaparchis.com
++.yallashot-live-now.com
 +.yamads.com
 +.yamanaisleepry.com
 +.yamanoha.com
@@ -54974,6 +55038,7 @@
 +.youspacko.com
 +.yousuode.cn
 +.youthful-area.com
++.youtube-adfree.com
 +.youtube-ai-debate-arena.com
 +.youtube-alarm.com
 +.youtube-convert.com
@@ -55062,6 +55127,7 @@
 +.adv.yuetnc.com
 +.yufxt.top
 +.yugukj.com
++.yuhuan.cc
 +.yuiiy.com
 +.yuiogh.site
 +.yukclick.me
