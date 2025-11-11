@@ -4356,7 +4356,6 @@
 +.chosun.com
 +.chrdnet.com
 +.christianfreedom.org
-+.christianfreedom.orgp:(^|\.)cav1(0[2-9]|1[0-9])\.com$
 +.christianstudy.com
 +.christiantimes.org.hk
 +.christusrex.org
@@ -8817,7 +8816,6 @@
 +.h-moe.com
 +.h-top.supertop-100.com
 +.h-webtoon.com
-+.h000webhost.com
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
@@ -11824,7 +11822,6 @@
 +.lolstatic.com
 +.lolusercontent.com
 +.london
-+.londonhiustantimes.com
 +.londonhotescort.com
 +.londonmithraeum.com
 +.londonreal.tv
