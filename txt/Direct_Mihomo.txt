@@ -40,6 +40,7 @@
 +.pingouxuan.com
 +.qjian.net
 +.quark.cn
++.smzdm.com
 +.taobao.com
 +.tfbkw.com
 +.toutiao.com
