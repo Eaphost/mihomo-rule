@@ -15,7 +15,7 @@ error() {
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
     [Ad]="sort-adblock.py
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
+        https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/ad.txt
         https://a.dove.isdumb.one/list.txt
     "
     [Proxy]="sort-clash.py
