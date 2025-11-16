@@ -43,6 +43,7 @@
 +.fusion.qq.com
 +.gdc.kg.qq.com
 +.gdt.qq.com
++.hd2.3g.qq.com
 +.hklong.weixin.qq.com
 +.hkshort.weixin.qq.com
 +.hq-tracking-pay.qq.com
