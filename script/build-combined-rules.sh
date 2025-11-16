@@ -19,11 +19,7 @@ declare -A RULES=(
         https://a.dove.isdumb.one/list.txt
     "
     [Proxy]="sort-clash.py
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-        https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
+        https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/daili.list
     "
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/zhi.list
