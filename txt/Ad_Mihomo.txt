@@ -16,7 +16,6 @@
 +.applog.reader.qq.com
 +.appsupport.qq.com
 +.as.weixin.qq.com
-+.beacon.cdn.qq.com
 +.beacon.qq.com
 +.beaconcdn.qq.com
 +.boss.qzone.qq.com
@@ -27,7 +26,6 @@
 +.casestudy.html5.qq.com
 +.cc.map.qq.com
 +.cfg.imtt.qq.com
-+.cgi.connect.qq.com
 +.cloud.tgpa.qq.com
 +.cm.l.qq.com
 +.crashsight.qq.com

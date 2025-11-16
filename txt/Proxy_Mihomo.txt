@@ -1502,6 +1502,7 @@
 +.ap-tokyo.tencentcos.cn
 +.ap-tokyo.tencentcos.com
 +.ap-tokyo.tencentcos.com.cn
++.ap.net
 +.ap.org
 +.ap0le.com
 +.apa.org
@@ -7924,6 +7925,7 @@
 +.full:faronics.kayako.com
 +.full:firstsearch.oclc.org
 +.full:github-api.arkoselabs.com
++.full:heads4-ak-spotify-com.akamaized000webhost.com
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
