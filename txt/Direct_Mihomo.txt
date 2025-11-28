@@ -37,6 +37,7 @@
 +.mi.com
 +.miknio.com
 +.miwap.com
++.motuixiu.com
 +.pan-yz.cldisk.com
 +.pingouxuan.com
 +.qjian.net
