@@ -14,6 +14,7 @@
 +.douyin.com
 +.foxirj.com
 +.ghxi.com
++.git.imee.me
 +.gocloud.cn
 +.hao123.com
 +.haowallpaper.com
