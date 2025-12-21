@@ -10,9 +10,12 @@
 +.baidu.com
 +.bd.cn
 +.chajuangou.com
++.cjck.cn
++.cmliussss.net
 +.ctfile.com
 +.douyin.com
 +.foxirj.com
++.getquicker.net
 +.ghxi.com
 +.git.imee.me
 +.gocloud.cn
@@ -33,12 +36,14 @@
 +.lot-ml.com
 +.lovestu.com
 +.mac78.com
++.macxzb.com
 +.mairuan.com
 +.makeding.com
 +.mi.com
 +.miknio.com
 +.miwap.com
 +.motuixiu.com
++.naibabiji.com
 +.pan-yz.cldisk.com
 +.pingouxuan.com
 +.qjian.net
@@ -52,6 +57,7 @@
 +.tv003.com
 +.tv004.com
 +.ustc.edu.cn
++.vmccc.com
 +.vumstar.com
 +.vvword.com
 +.wbolt.com
@@ -60,7 +66,9 @@
 +.www.xiaopiaa.com
 +.xcxymw.com
 +.xkzhi.com
++.yecao.net
 +.ysepan.com
++.zeabur.app
 +.zhheo.com
 +.zhihu.com
 +.zhiniw.com
