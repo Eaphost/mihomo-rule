@@ -5,8 +5,10 @@
 +.5v13.com
 +.7b2.com
 +.afrp.net
++.ahzll.top
 +.aizhuisu.com
 +.apple.com
++.babybus.com
 +.baidu.com
 +.bd.cn
 +.chajuangou.com
@@ -14,6 +16,7 @@
 +.cmliussss.net
 +.ctfile.com
 +.douyin.com
++.dyjqd.com
 +.foxirj.com
 +.getquicker.net
 +.ghxi.com
@@ -22,6 +25,7 @@
 +.hao123.com
 +.haowallpaper.com
 +.heipg.cn
++.hnrsks.com
 +.hxino.com
 +.icloud.com
 +.ikuai8.com
@@ -35,13 +39,16 @@
 +.lizhi.io
 +.lot-ml.com
 +.lovestu.com
++.lunashu.org
 +.mac78.com
 +.macxzb.com
 +.mairuan.com
 +.makeding.com
++.mengblog.cn
 +.mi.com
 +.miknio.com
 +.miwap.com
++.mocreak.com
 +.motuixiu.com
 +.naibabiji.com
 +.pan-yz.cldisk.com
@@ -58,14 +65,17 @@
 +.tv004.com
 +.ustc.edu.cn
 +.vmccc.com
++.vpsss.net
 +.vumstar.com
 +.vvword.com
 +.wbolt.com
++.wghaos.com
 +.wpdaxue.com
 +.www.right.com.cn
 +.www.xiaopiaa.com
 +.xcxymw.com
 +.xkzhi.com
++.xzxkjd.com
 +.yecao.net
 +.ysepan.com
 +.zeabur.app
@@ -73,3 +83,4 @@
 +.zhihu.com
 +.zhiniw.com
 +.zibll.com
++.zmingcx.com
