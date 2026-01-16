@@ -16,7 +16,6 @@ error() {
 declare -A RULES=(
     [Ad]="sort-adblock.py
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/ad.txt
-        https://a.dove.isdumb.one/list.txt
     "
     [Proxy]="sort-clash.py
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/daili.list
