@@ -55,6 +55,7 @@
 +.pingouxuan.com
 +.qjian.net
 +.quark.cn
++.sandai.net
 +.smzdm.com
 +.taobao.com
 +.tfbkw.com
@@ -75,6 +76,7 @@
 +.www.xiaopiaa.com
 +.xcxymw.com
 +.xkzhi.com
++.xunlei.com
 +.xzxkjd.com
 +.yecao.net
 +.ysepan.com
