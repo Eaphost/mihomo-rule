@@ -7,6 +7,7 @@
 +.afrp.net
 +.ahzll.top
 +.aizhuisu.com
++.alibabacloud.com
 +.aliyun.com
 +.apple.com
 +.babybus.com
