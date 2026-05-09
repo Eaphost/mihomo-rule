@@ -18,7 +18,7 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/ad.txt
     "
     [Proxy]="sort-clash.py
-        
+        https://raw.githubusercontent.com/666OS/rules/refs/heads/release/mihomo/domain/Proxy.txt
     "
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/zhi.list
