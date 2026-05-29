@@ -249,6 +249,7 @@
 +.arvanstorage.ir
 +.arweave.org
 +.arxiv.org
++.as.mr
 +.asacp.org
 +.asiaharvest.org
 +.asianage.com
@@ -310,6 +311,7 @@
 +.bangdream.space
 +.bangkokpost.com
 +.bangumi.moe
++.bangumi.tv
 +.bangyoulater.com
 +.bankmobilevibe.com
 +.bannedbook.org
@@ -361,6 +363,7 @@
 +.bettween.com
 +.betvictor.com
 +.bfnn.org
++.bgm.tv
 +.bgme.me
 +.bgvpn.com
 +.biblesforamerica.org
@@ -613,6 +616,7 @@
 +.chenpokongvip.com
 +.cherrysave.com
 +.chhongbi.org
++.chii.in
 +.china-mmm.net
 +.china-review.com.ua
 +.china-week.com
@@ -699,7 +703,6 @@
 +.cn.fmnnow.com
 +.cn.sandscotaicentral.com
 +.cn.shafaqna.com
-+.cnbc.com
 +.cnd.org
 +.cnnews.chosun.com
 +.cnpolitics.org
@@ -1243,6 +1246,7 @@
 +.gekikame.com
 +.gelbooru.com
 +.gemini.com
++.gencraft.com
 +.generated.photos
 +.genius.com
 +.geph.io
@@ -1629,6 +1633,7 @@
 +.hicairo.com
 +.hiccears.com
 +.hidden-advent.org
++.hiddify.com
 +.hide.me
 +.hideipvpn.com
 +.hideman.net
@@ -2943,7 +2948,6 @@
 +.socks-proxy.net
 +.sockslist.net
 +.socrec.org
-+.softether-download.com
 +.softether.org
 +.softfamous.com
 +.softwarebychuck.com
@@ -3485,6 +3489,7 @@
 +.vatn.org
 +.vcf-online.org
 +.vcfbuilder.org
++.veed.io
 +.vegas.williamhill.com
 +.vegasred.com
 +.venetianmacao.com
@@ -3835,7 +3840,6 @@
 +.yfsp.tv
 +.yhcw.net
 +.yibaochina.com
-+.yidio.com
 +.yigeni.com
 +.yimg.com
 +.yingwangtech.cloud
