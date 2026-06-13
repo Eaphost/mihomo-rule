@@ -6355,6 +6355,7 @@
 +.doseofporn.com
 +.dot.net
 +.dot.sb
++.dota2.com
 +.dotcernpilot.info
 +.dotdeb.org
 +.dotfacebook.com
@@ -12693,6 +12694,8 @@
 +.livehdcams.com
 +.livejasmin.com
 +.livejasminbabes.net
++.livejournal.com
++.livejournal.net
 +.liveleak.com
 +.livemint.com
 +.livemodels.co
@@ -15175,6 +15178,7 @@
 +.nsfw247.to
 +.nsfwmemes.com
 +.nsimg.net
++.nspk.ru
 +.ntc.party
 +.ntd.com
 +.ntd.tv
@@ -15457,6 +15461,7 @@
 +.okx-dns.com
 +.okx-dns1.com
 +.okx-dns2.com
++.okx.ac
 +.okx.cab
 +.okx.com
 +.old.honeynet.org
@@ -20869,6 +20874,7 @@
 +.v-av.com
 +.v-has.com
 +.v.gd
++.v.ps
 +.v2.help
 +.v2.hysteria.network
 +.v2ex.com
@@ -20896,6 +20902,7 @@
 +.value-domain.com
 +.value-server.com
 +.valuegb.com
++.valve.net
 +.valvesoftware.com
 +.vamo.com
 +.vamzakaz.ru
@@ -21643,6 +21650,7 @@
 +.vpornvideos.com
 +.vpro.com
 +.vpro.net
++.vps.hosting
 +.vpsxb.net
 +.vrbgay.com
 +.vrcams.io
@@ -22715,6 +22723,10 @@
 +.xt.pub
 +.xtapes.to
 +.xtegvk.xyz
++.xtom.com
++.xtom.ee
++.xtom.social
++.xtom.us
 +.xtracloud.net
 +.xtube.com
 +.xtubebdsm.com
