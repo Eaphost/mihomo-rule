@@ -1661,6 +1661,7 @@
 +.appbridge.io
 +.appcenter.ms
 +.appcloud.com
++.appconsent.io
 +.appdomain.cloud
 +.appdynamics.com
 +.appdynamics.info
@@ -1926,7 +1927,6 @@
 +.appmediagroup.com
 +.approvedusedbmw.com
 +.apps.apple.com
-+.appsflayer.com
 +.appshopper.com
 +.appsmail.ru
 +.appsocks.net
@@ -2476,6 +2476,7 @@
 +.awwcn.buzz
 +.awwcn.xyz
 +.awxcdn.com
++.axept.io
 +.axios.com
 +.axureformac.com
 +.ayabank.com
@@ -2652,6 +2653,7 @@
 +.barrons-conferences.com
 +.barrons.com
 +.barss1207.pro
++.base.org
 +.basecamp.com
 +.baselinestudy.com
 +.baselinestudy.org
@@ -3341,6 +3343,7 @@
 +.bitflyer.com
 +.bitget.com
 +.bithumb.com
++.bitlayer.org
 +.bitly.com
 +.bitly.is
 +.bitmex.com
@@ -3384,6 +3387,7 @@
 +.blacktowhite.net
 +.blackvpn.com
 +.blaoshi.cc
++.blast.io
 +.blazor.net
 +.bleepingcomputer.com
 +.blender.org
@@ -3881,11 +3885,14 @@
 +.bmwusfactory.com
 +.bmwusrideracademy.com
 +.bmwvalueservice.com
++.bmwweb.solutions
 +.bmwwholesaleconnect.com
 +.bmwworld.com
 +.bmwworld.net
 +.bmwworld.tv
 +.bmwzentrum.com
++.bnappweb.black
++.bnbchain.org
 +.bnbstatic.com
 +.bnef.com
 +.bnn.co
@@ -4133,7 +4140,9 @@
 +.brutalfetish.com
 +.brutaltgp.com
 +.bs-adreview.com
++.bsappapi.cc
 +.bsappapi.com
++.bscdnweb.com
 +.bsi.ir
 +.bsky.app
 +.bsky.network
@@ -4617,6 +4626,7 @@
 +.cdkworkshop.com
 +.cdmatech.com
 +.cdn-apple.com
++.cdn-cookieyes.com
 +.cdn-spotify-experiments.conductrics.com
 +.cdn-telegram.org
 +.cdn-terapeak.com
@@ -4657,6 +4667,7 @@
 +.celebgramme.com
 +.celebmasta.live
 +.celebritygay.com
++.celebritymoviearchive.com
 +.celebritynakeds.com
 +.celebrityslips.com
 +.celebritystorysite.com
@@ -4711,6 +4722,7 @@
 +.cgdepot.org
 +.ch
 +.ch9.ms
++.chainid.network
 +.championshipseriesleague.com
 +.change.org
 +.changp.com
@@ -5290,6 +5302,7 @@
 +.conquerwithcharacter.com
 +.conscrypt.com
 +.conscrypt.org
++.consentmanager.net
 +.consentpro.com
 +.constructware.com
 +.consul.io
@@ -5299,9 +5312,11 @@
 +.contentful.com
 +.contest.com
 +.convrgencegame.com
++.cookiebot.com
 +.cookiechoices.org
 +.cookielaw.org
 +.cookiepro.com
++.cookieyes.com
 +.cool-comics.com
 +.cool18.com
 +.cool3c.com
@@ -5326,6 +5341,7 @@
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
++.coredao.org
 +.coreduo.com
 +.coreextreme.com
 +.corel.com
@@ -6005,6 +6021,7 @@
 +.dewitwithdurex.com
 +.dexterhorn.com
 +.dezyred.com
++.dfvpn.com
 +.dgaqp.com
 +.dgg.gg
 +.dgwav.com
@@ -6497,6 +6514,7 @@
 +.dropboxpartners.com
 +.dropboxstatic.com
 +.dropboxusercontent.com
++.drpc.org
 +.drtuber.com
 +.drunk6.com
 +.drunkenstepfather.com
@@ -7714,6 +7732,8 @@
 +.fanswong.com
 +.fantasiasguatemala.com
 +.fantasti.cc
++.fantom.foundation
++.fantom.network
 +.fap-xxx.com
 +.fap18.net
 +.fap666.com
@@ -7912,6 +7932,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fiat24.com
 +.fibank.bg
 +.fic.fan
 +.ficador.com
@@ -8053,6 +8074,7 @@
 +.fl310.com
 +.flagrasamadores.net
 +.flameunleashed.com
++.flare.network
 +.flaru.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
@@ -8351,6 +8373,7 @@
 +.fpacebook.com
 +.fpmt.org
 +.fpmtmexico.org
++.fpo.xxx
 +.fptolia.com
 +.fqcebook.com
 +.fqrouter.com
@@ -8463,6 +8486,8 @@
 +.freewallpaper4.me
 +.freewechat.com
 +.freeweibo.com
++.freexh.blog
++.freexh.live
 +.freexvideos.org
 +.freexxx.best
 +.freexxx.win
@@ -8617,6 +8642,7 @@
 +.futuesop.com
 +.futufin.com
 +.futuhk.com
++.futuhk1.com
 +.futuhk2.com
 +.futuhkapp.com
 +.futuhn.com
@@ -8625,12 +8651,14 @@
 +.futunited.com
 +.futuniuniu.com
 +.futunn.com
++.futuoa.com
 +.future-cs.ru
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
 +.futureshop.ca
++.futusg.com
 +.futustatic.com
 +.fututrade.com
 +.fututrustee.com
@@ -8697,6 +8725,7 @@
 +.gamesstack.com
 +.gametap.com
 +.gameuxmasterguide.com
++.gamewtb.com
 +.gaming-notebooks.com
 +.gandhara.ru
 +.gandi.net
@@ -9140,6 +9169,7 @@
 +.gockhuatviet.com
 +.godaddy
 +.godaddy.com
++.godaddy.net
 +.godbolt.org
 +.godfootsteps.org
 +.godoc.org
@@ -11564,6 +11594,7 @@
 +.irribay.com
 +.is.gd
 +.isaacmao.com
++.isafepal.com
 +.isbgpsafeyet.com
 +.isc.sans.edu
 +.isca-speech.org
@@ -12817,6 +12848,7 @@
 +.londonreal.tv
 +.lonestarnaughtygirls.com
 +.longbridge.cloud
++.longbridge.cn
 +.longbridge.com
 +.longbridge.global
 +.longbridgeapp.com
@@ -13390,6 +13422,7 @@
 +.meetyourdevices.com
 +.mega.io
 +.megacamz.com
++.megaeth.com
 +.megafilmporno.com
 +.megafon.com
 +.megafon.ru
@@ -13436,6 +13469,7 @@
 +.meridian-trust.org
 +.meridian.net
 +.meripet.com
++.merkl.xyz
 +.meshmixer.com
 +.meshmixerforum.com
 +.messenger.com
@@ -13468,6 +13502,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mexc.co
 +.mexc.com
 +.mexcsensors.com
 +.mfg-inspector.com
@@ -14920,6 +14955,7 @@
 +.nhk
 +.nic.cz.cc
 +.nic.gov
++.nic.ru
 +.niceanimegames.com
 +.nicegram.app
 +.nicegram.cloud
@@ -14927,6 +14963,7 @@
 +.nicesshop.net
 +.nichepornsite.com
 +.nichepornsites.com
++.nichost.ru
 +.nickscipio.com
 +.nicky.xxx
 +.nico
@@ -15144,6 +15181,7 @@
 +.nodeimage.com
 +.nodejs.org
 +.nodequality.com
++.nodereal.io
 +.nodeseek.com
 +.nodesource.com
 +.noisullifb.com
@@ -15394,6 +15432,7 @@
 +.oanda.com
 +.oanencore.com
 +.oann.com
++.oasis.io
 +.oath.cloud
 +.oath.com
 +.oauthz.com
@@ -15573,6 +15612,7 @@
 +.onetrust.com
 +.onevps.com
 +.oneworldmanystories.com
++.onfinality.io
 +.onindiansex.com
 +.oninstagram.com
 +.onion.city
@@ -15630,9 +15670,6 @@
 +.open.firstory.me
 +.openai.com
 +.openamt.com
-+.openapi-quote.longbridge.cn
-+.openapi-trade.longbridge.cn
-+.openapi.longbridge.cn
 +.openapiplatform.com
 +.openapiservice.com
 +.openart.ai
@@ -16263,6 +16300,7 @@
 +.pikpak.me
 +.pikpakdrive.com
 +.pillbeatsblackfridaysale.com
++.pimpbunny.com
 +.pin-cong.com
 +.pin6.com
 +.pincong.rocks
@@ -16885,6 +16923,7 @@
 +.powershape.com
 +.powershellgallery.com
 +.powersunitedvr.com
++.powfans.com
 +.pp-soc.com
 +.pp6.info
 +.ppaypal.com
@@ -17250,6 +17289,7 @@
 +.r-pool.net
 +.r-project.org
 +.r0.ru
++.r01.ru
 +.r10s.com
 +.r18.clickme.net
 +.r18.com
@@ -17508,6 +17548,9 @@
 +.referer.us
 +.reflectivecode.com
 +.reform-apple.com
++.reg.cloud
++.reg.com
++.reg.ru
 +.regex101.com
 +.regiongold.com
 +.registerhulu.com
@@ -17719,6 +17762,7 @@
 +.rsf.org
 +.rsg.sc
 +.rshb.ru
++.rsk.co
 +.rspao.com
 +.rss.4040940.xyz
 +.rss.datuan.dev
@@ -17876,6 +17920,7 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
++.saasexch.info
 +.saasexch.io
 +.sabuibo.net
 +.sacduc.com
@@ -17889,6 +17934,7 @@
 +.safechat.com
 +.safeguarddefenders.com
 +.safeliner.tech
++.safepal.com
 +.safervpn.com
 +.saffrontech.com
 +.sage-observability.tech
@@ -18182,6 +18228,7 @@
 +.seqingx.com
 +.sequence.com
 +.ser7.cc
++.serakon.com
 +.serbiporno.net
 +.serialssolutions.com
 +.serlucap.lol
@@ -18707,6 +18754,7 @@
 +.skysports.ie
 +.skysportsonline.com
 +.skysportsracing.com
++.skytigris.cn
 +.skyvegas.com
 +.skyxvpn.com
 +.sl99mod.buzz
@@ -18862,6 +18910,7 @@
 +.solarcity.com
 +.solarsystem.nasa.gov
 +.solid.ru
++.solidifi.app
 +.solostudioksale.com
 +.solscan.io
 +.solutionstation.com
@@ -19258,6 +19307,7 @@
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -19476,6 +19526,7 @@
 +.swapspace.co
 +.sway-cdn.com
 +.sway.com
++.sweb.ru
 +.sweetadult-tube.com
 +.sweetsext.com
 +.sweetsinner.com
@@ -19589,6 +19640,7 @@
 +.tagbank.ru
 +.tagwalk.com
 +.taiav.com
++.taiko.xyz
 +.tail-f.com
 +.tailf.com
 +.tails.net
@@ -19660,6 +19712,7 @@
 +.taylorandfrancis.com
 +.taylorfrancis.com
 +.tb-esim.ru
++.tb.pro
 +.tbank-online.com
 +.tbank.ru
 +.tbcollege.org
@@ -19778,6 +19831,7 @@
 +.terapeak.info
 +.teraperk.com
 +.termius.com
++.termly.io
 +.termux.com
 +.termux.dev
 +.termux.org
@@ -19995,6 +20049,7 @@
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
++.thirdweb.com
 +.thisav.com
 +.thisisgame.com
 +.thisispolaris.com
@@ -20033,6 +20088,7 @@
 +.thumbzilla.com
 +.thunderbird.net
 +.thunderbolttechnology.net
++.thundermail.com
 +.thywords.com
 +.thz7.net
 +.thzu.cc
@@ -20385,6 +20441,7 @@
 +.truenas.com
 +.trunest.com
 +.trust-provider.com
++.trustarc.com
 +.trustcor.ca
 +.trustcor.com
 +.trusted-dwg.com
@@ -21727,6 +21784,7 @@
 +.vscode-unpkg.net
 +.vscode.dev
 +.vsemrabota.ru
++.vsex.in
 +.vsezoo.com
 +.vsmarketplacebadge.apphb.com
 +.vsphere.com
@@ -22315,6 +22373,7 @@
 +.ws-blau.com
 +.ws-tcg.com
 +.ws.audioscrobbler.com
++.wsimg.com
 +.wsj.com
 +.wsj.jobs
 +.wsj.net
@@ -22511,6 +22570,7 @@
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhapp.live
 +.xhcdn.com
 +.xhnews.live
 +.xhot.pro
@@ -22555,6 +22615,7 @@
 +.xkontakt18.com
 +.xkorean.cam
 +.xl-gaytube.com
++.xlayer.tech
 +.xlecx.org
 +.xlgirls.com
 +.xlinkz.to
@@ -23594,6 +23655,8 @@
 +.zerohedge.com
 +.zeronet.io
 +.zettai-ero.com
++.zftksc.cdn-settings.appsflyersdk.com
++.zftksc.launches.appsflyersdk.com
 +.zh-hans.cfsh99.com
 +.zh.pokerstrategy.com
 +.zh99.net
