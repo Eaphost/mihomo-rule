@@ -5415,6 +5415,7 @@
 +.crazyxxxworld.com
 +.crbug.com
 +.crchina.org
++.creader.com
 +.creaders.net
 +.creamasia.com
 +.creamlemon.info
@@ -8897,6 +8898,7 @@
 +.gerritcodereview.com
 +.gesoten.com
 +.get.app
++.get.dappcdn.com
 +.get.dev
 +.get.how
 +.get.new
