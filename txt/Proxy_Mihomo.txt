@@ -1050,6 +1050,7 @@
 +.airtunes.com
 +.airtunes.info
 +.airtunes.net
++.airuniversity.af.edu
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
@@ -1265,6 +1266,7 @@
 +.allspyclips.com
 +.allswingersclubs.org
 +.allthefallen.moe
++.almalinux.org
 +.alohatube.com
 +.alotporn.com
 +.alphabet.asia
@@ -4241,6 +4243,7 @@
 +.bustyoldsluts.com
 +.bustysammieblack.com
 +.busu.org
++.busybox.net
 +.buy-from-shanghai.com
 +.buyaapl.com
 +.buyaapl.net
@@ -5755,7 +5758,6 @@
 +.deepl.com
 +.deepmind.com
 +.deezer.com
-+.default.exp-tas.com
 +.definebabe.com
 +.definefetish.com
 +.degruyter.com
@@ -6415,7 +6417,6 @@
 +.dowjoneson.com
 +.download.com
 +.download.dappcdn.com
-+.download.visualstudio.microsoft.com
 +.downloadpass.com
 +.downloadsforipod.com
 +.dpool.top
@@ -7343,6 +7344,7 @@
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -8755,6 +8757,7 @@
 +.garudalinux.org
 +.gastrointestinalexam.com
 +.gate.cc
++.gate.com
 +.gate.io
 +.gatecoin.com
 +.gatedata.org
@@ -9053,6 +9056,7 @@
 +.github-api.arkoselabs.com
 +.github.ai
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github.dev
@@ -9180,8 +9184,11 @@
 +.gofucker.com
 +.gofuckmenow.com
 +.gofundme.com
++.gog-cdn-lumen.secure2.footprint.net
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
@@ -12294,6 +12301,7 @@
 +.keytransparency.com
 +.keytransparency.foo
 +.keytransparency.org
++.kfor.com
 +.kfs.io
 +.kgisystems.com
 +.kgslb.com
@@ -12665,6 +12673,7 @@
 +.licensebuttons.net
 +.licenseparser.com
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifestyle-tec.ru
@@ -13120,6 +13129,7 @@
 +.manhwa24h.com
 +.manhwahentai.me
 +.maniakey.homes
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -13524,6 +13534,7 @@
 +.mhqwe.xyz
 +.mhradio.org
 +.mhshosting.com
++.mhwindow.org
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
@@ -16141,6 +16152,7 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
++.pcgamesn.com
 +.pcgamestorrents.com
 +.pcij.org
 +.pcloud.com
@@ -17595,6 +17607,7 @@
 +.resoubang.buzz
 +.respawnbyrazer.com
 +.restnproducts.ru
++.restofworld.org
 +.restream-media.net
 +.restream.ru
 +.rethink.net
@@ -17705,6 +17718,7 @@
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -19033,6 +19047,7 @@
 +.soyjak.st
 +.sp.cool
 +.spaceexplored.com
++.spaceforce.mil
 +.spacemail.com
 +.spaces.hightail.com
 +.spaceship.com
@@ -19104,6 +19119,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -19491,6 +19507,7 @@
 +.supr.cl
 +.supremacy.com
 +.supremacy.net
++.supremecourt.gov
 +.suprememastertv.com
 +.sureporn.com
 +.surface.com
@@ -19969,6 +19986,7 @@
 +.theinitium.com
 +.theinstagramhack.com
 +.theintelstore.com
++.theintercept.com
 +.theinventionworks.com
 +.theinventionworks.net
 +.thekarups.com
@@ -20431,6 +20449,7 @@
 +.tropictube.com
 +.trpger.us
 +.trt.net.tr
++.trtworld.com
 +.trueamateurmodels.com
 +.trueamateurs.com
 +.trueanal.com
@@ -20689,6 +20708,7 @@
 +.twoo.com
 +.twporn.net
 +.twreporter.org
++.twstalker.com
 +.twt.tl
 +.twtkr.com
 +.twtrdns.net
@@ -21784,7 +21804,10 @@
 +.vscale.ru
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
 +.vscode.dev
++.vscodeedu.app
++.vscodeedu.com
 +.vsemrabota.ru
 +.vsex.in
 +.vsezoo.com
@@ -21880,6 +21903,7 @@
 +.washa.tv
 +.washingtondcbmw.com
 +.washingtonpost.com
++.washingtontimes.com
 +.waskucity.com
 +.wasmer.io
 +.watch-ebay.org
@@ -22418,6 +22442,7 @@
 +.www.gmiddle.net
 +.www.idlcoyote.com
 +.www.lorenzetti.com.br
++.www.microsoft.com
 +.www.monlamit.org
 +.www.moztw.org
 +.www.msn.com
@@ -22841,6 +22866,7 @@
 +.xtubebdsm.com
 +.xtubezoo.com
 +.xu97.vip
++.xuan.com.my
 +.xuchao.net
 +.xuchao.org
 +.xuehua.us
