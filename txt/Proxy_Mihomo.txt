@@ -1874,6 +1874,7 @@
 +.applereach.com
 +.applereach.net
 +.apples-msk.ru
++.appleschoolcontent.com
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
@@ -1946,6 +1947,7 @@
 +.aptoide.com
 +.apture.com
 +.apyle.com
++.apzones.com
 +.aqdlt.net
 +.arabianchicks.com
 +.arabicrt.ru
@@ -2480,6 +2482,7 @@
 +.awxcdn.com
 +.axept.io
 +.axios.com
++.axm-usercontent-apple.com
 +.axureformac.com
 +.ayabank.com
 +.ayshdade.info
@@ -3388,6 +3391,7 @@
 +.blackstonespoliceservice.com
 +.blacktowhite.net
 +.blackvpn.com
++.blanc.ru
 +.blaoshi.cc
 +.blast.io
 +.blazor.net
@@ -3981,6 +3985,7 @@
 +.boswp.com
 +.botanwang.com
 +.botframework.com
++.botim.me
 +.botmechanic.io
 +.botorch.org
 +.botstop.com
@@ -5336,6 +5341,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
 +.copy-manga.com
@@ -5629,6 +5635,8 @@
 +.damduc.org
 +.damplips.com
 +.dandalinvoa.com
++.dandanplay.com
++.dandanplay.net
 +.dandanzan.cc
 +.danemarket.com
 +.danke4china.net
@@ -10263,6 +10271,9 @@
 +.horizontal-systems.com
 +.horizontalglue.com
 +.horizontalsystems.com
++.hornet.com
++.hornetapp.com
++.hornetx.com
 +.hornyasianmilfs.com
 +.hornybitches.org
 +.hornybutt.com
@@ -12748,6 +12759,7 @@
 +.listentoyoutube.com
 +.listinganalytics.net
 +.litbus-anime.com
++.litecoin.org
 +.literatumonline.com
 +.literotica.com
 +.littleasians.com
@@ -14820,7 +14832,9 @@
 +.netflixtechblog.com
 +.netlify.app
 +.netlify.com
++.netlifydns.com
 +.netlifystatus.com
++.netlifyusercontent.com
 +.netlock.hu
 +.netme.cc
 +.netname.com.br
@@ -15277,6 +15291,7 @@
 +.ntdtv.ru
 +.ntdtvla.com
 +.ntdvn.com
++.ntl.fyi
 +.ntp-c.colorado.edu
 +.ntp.fiord.ru
 +.ntp.nat.ms
@@ -20440,6 +20455,7 @@
 +.tribler.org
 +.trikepatrol.com
 +.triokini.com
++.tripo3d.ai
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
