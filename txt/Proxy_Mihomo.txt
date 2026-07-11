@@ -1696,6 +1696,7 @@
 +.apple-relay.apple.com
 +.apple-store.net
 +.apple-store.wang
++.apple-studies.com
 +.apple-tv-plus-press.apple.com
 +.apple-usa.net
 +.apple-watch.com.ru
@@ -2128,6 +2129,7 @@
 +.atlassian-dev.net
 +.atlassian.com
 +.atlassian.net
++.atmeta.com
 +.atnext.com
 +.atom.io
 +.atomyze.ru
@@ -2500,6 +2502,7 @@
 +.azirevpn.com
 +.aznude.com
 +.azure
++.azure-api.net
 +.azure-devices-int.net
 +.azure-devices.net
 +.azure-dns.com
@@ -2539,6 +2542,7 @@
 +.azureserviceprofiler.com
 +.azuresmartspaces.net
 +.azurestackvalidation.com
++.azurestaticapps.net
 +.azurewebsites.net
 +.b-cdn.net
 +.b-eroland.net
@@ -8126,6 +8130,8 @@
 +.flowgpt.com
 +.flowhongkong.net
 +.flowtype.org
++.flowwow-images.com
++.flowwow.com
 +.fluffychat.im
 +.fluidfxapp.com
 +.fluidpreview.com
@@ -8614,6 +8620,8 @@
 +.funkyimg.com
 +.funnyfacebook.org
 +.funnyordie.com
++.funpay.com
++.funpay.ru
 +.funshemale.com
 +.fuq.com
 +.fuqqt.com
@@ -11161,7 +11169,6 @@
 +.infraworks.com
 +.infura.io
 +.ingads.com
-+.ingest.apple-studies.com
 +.ingka.com
 +.ingka.dev
 +.ingkacentres.com
@@ -15998,6 +16005,8 @@
 +.patreonusercontent.com
 +.paulsimon-music.com
 +.pavpal.com
++.pawchive.pw
++.pawchive.st
 +.pawoo.net
 +.paxful.com
 +.paxlicense.org
@@ -18468,6 +18477,7 @@
 +.sforce.com
 +.sfshibao.com
 +.sftuk.org
++.sfunpay.com
 +.sfx.ms
 +.sg
 +.sg120.me
@@ -20210,6 +20220,7 @@
 +.tilda.ws
 +.tildaapi.com
 +.tildacdn.com
++.tildacdn.net
 +.tiltbrush.com
 +.timdir.com
 +.time-messenger.ru
