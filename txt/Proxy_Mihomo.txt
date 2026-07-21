@@ -5036,6 +5036,7 @@
 +.clashofclans.com
 +.clashroyale.com
 +.clashroyaleapp.com
++.clashyun.com
 +.clasporno.org
 +.classicalguitarblog.net
 +.classicnike.com
@@ -19668,6 +19669,7 @@
 +.syosetu.com
 +.sysinternals.com
 +.system76.com
++.sysub.com
 +.syzbj36.xyz
 +.szabadeuropa.hu
 +.szcheapmonsterheadphones.com
@@ -23736,6 +23738,7 @@
 +.zenlesszonezero.com
 +.zenmate.com
 +.zenmate.com.ru
++.zenmux.ai
 +.zenodo.org
 +.zeplin.dev
 +.zeplin.io
