@@ -32,7 +32,6 @@
 +.d3g.qq.com
 +.dir.minigame.qq.com
 +.dnet.mb.qq.com
-+.dns.weixin.qq.com
 +.dp3.qq.com
 +.e.qq.com
 +.ex.qq.com
@@ -62,8 +61,6 @@
 +.lives.l.qq.com
 +.log.tbs.qq.com
 +.log.weixin.qq.com
-+.log.wtlogin.qq.com
-+.log1.wtlogin.qq.com
 +.logs.game.qq.com
 +.mark.l.qq.com
 +.masdkv6.3g.qq.com
@@ -156,15 +153,9 @@
 +.vpic.video.qq.com
 +.vv.video.qq.com
 +.w.inews.qq.com
-+.wns.qq.com
 +.wnsmusic.qq.com
-+.wpa.qq.com
 +.wup.browser.qq.com
 +.wup.imtt.qq.com
-+.wxa.wxs.qq.com
-+.wximg.wxs.qq.com
-+.wxsmw.wxs.qq.com
-+.wxsnsdythumb.wxs.qq.com
 +.xmaterial.tu.qq.com
 +.yun-hl.3g.qq.com
 +.zxcv.3g.qq.com
