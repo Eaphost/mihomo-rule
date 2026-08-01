@@ -1632,6 +1632,7 @@
 +.api.recaptcha.net
 +.api.viu.now.com
 +.apiary.io
++.apiauto.ru
 +.apibay.org
 +.apigee.com
 +.apina.biz
@@ -2205,6 +2206,7 @@
 +.authorxml.com
 +.authpass.app
 +.authy.com
++.auto.ru
 +.autocad-schulungen.com
 +.autocad.com
 +.autocad360.com
@@ -2342,6 +2344,7 @@
 +.autokreditbank.ru
 +.automaton-media.com
 +.automotive-cadcam.com
++.autoru.me
 +.autosketch.com
 +.autumn-jade.com
 +.auxdubai.com
@@ -2443,6 +2446,7 @@
 +.avstar6.com
 +.avstar8.com
 +.avstar9.com
++.avto.ru
 +.avwong.com
 +.avwto.com
 +.avxde.org
@@ -3559,6 +3563,7 @@
 +.bluemix.net
 +.bluestacks.com
 +.bluffyporn.com
++.blurams.app
 +.blurams.com
 +.blylq.buzz
 +.blz-contentstack.com
@@ -4698,6 +4703,7 @@
 +.cellulo.info
 +.cencoastbmw.com
 +.cenkei.com
++.ceno.app
 +.censorship.ai
 +.centauro.com.br
 +.centerforhumanreprod.com
@@ -4851,6 +4857,8 @@
 +.cherrypimps.com
 +.cherrypornhd.com
 +.cherrysave.com
++.chess.com
++.chesscomfiles.com
 +.chhongbi.org
 +.chianxv.buzz
 +.chicagolandbmw.com
@@ -4953,6 +4961,9 @@
 +.chyoa.com
 +.ci-en.net
 +.cia.gov
++.cian.ru
++.cian.site
++.ciangroup.ru
 +.ciattackers.com
 +.cici.com
 +.ciciai.com
@@ -5154,6 +5165,7 @@
 +.clubtubes.com
 +.clusterconnection.com
 +.clzz2.xyz
++.cm.expert
 +.cmcn.org
 +.cmegroup.com
 +.cmhalq.com
@@ -6320,6 +6332,7 @@
 +.dmcdn.net
 +.dmed.technology
 +.dmhy.org
++.dmir.ru
 +.dmit.io
 +.dmit.sh
 +.dml-lang.org
@@ -6527,6 +6540,7 @@
 +.drmario-world.com
 +.drnastran.com
 +.drobbox.pro
++.drom.ru
 +.dronedj.com
 +.dropbooks.tv
 +.dropbox-dns.com
@@ -9104,6 +9118,7 @@
 +.githubnext.com
 +.githubpreview.dev
 +.githubstatus.com
++.githubsupport.com
 +.githubuniverse.com
 +.githubusercontent.com
 +.gitlab-assets.oss-cn-hongkong.aliyuncs.com
@@ -11731,6 +11746,7 @@
 +.iutunes.com
 +.ivacy.com
 +.ivi.ru
++.ivicdn.tv
 +.ivintageporn.com
 +.ivonblog.com
 +.ivpn.net
@@ -12393,6 +12409,7 @@
 +.kindleren.com
 +.kindnudist.com
 +.kindteenporn.com
++.kinescopecdn.net
 +.kingcomix.com
 +.kingdomsalvation.org
 +.kingextre.me
@@ -15332,6 +15349,7 @@
 +.ntdtv.ru
 +.ntdtvla.com
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntp-c.colorado.edu
 +.ntp.fiord.ru
@@ -15489,6 +15507,7 @@
 +.nytstyle.com
 +.nz
 +.o-courier.ru
++.o-uchi.ru
 +.o3.ru
 +.o365weve-dev.com
 +.o365weve-ppe.com
@@ -16978,6 +16997,7 @@
 +.potato.im
 +.potatso.com
 +.potvpn.com
++.poudobnee.com
 +.povpornonly.com
 +.povr.com
 +.power.com
@@ -17491,6 +17511,7 @@
 +.rcl07.xyz
 +.rclon.com
 +.rd.com
++.rdrom.ru
 +.rds-yes.buzz
 +.rdtcdn.com
 +.re25.vip
@@ -17558,6 +17579,7 @@
 +.realsexdoll.com
 +.realteengirls.com
 +.realtor.com
++.realtyverif.ru
 +.realvision.com
 +.realviz.com
 +.realzoomovies.com
@@ -18106,6 +18128,7 @@
 +.sber.ru
 +.sberauto.com
 +.sberbank-insurance.ru
++.sberbank-tele.com
 +.sberbank.com
 +.sberbank.ru
 +.sberbankaktivno.ru
@@ -20845,6 +20868,7 @@
 +.uc-japan.org
 +.uchi.ru
 +.uchicago.edu
++.uchilk.ru
 +.ucla.edu
 +.ucoz.ae
 +.ucoz.club
@@ -22747,6 +22771,7 @@
 +.xn----8sbeoy5bze.com
 +.xn----8sbkfzespdwig.xn--p1ai
 +.xn----8sbwjbxyd.xn--p1ai
++.xn----otbzjdu.xn--p1ai
 +.xn--096-4g6em5t.com
 +.xn--11xs86f.icu
 +.xn--1jqvh729avzfcy2d8ummib.com
@@ -22767,6 +22792,8 @@
 +.xn--74q434dwff.net
 +.xn--7hv594h.com
 +.xn--80a9a4b.xn--p1ai
++.xn--80aaafbpzn5blfby1p.xn--p1ai
++.xn--80aaeib8abrryx4k.xn--p1ai
 +.xn--80aafgovrgbc7am.xn--p1ai
 +.xn--80acbjgmges7ca.xn--p1ai
 +.xn--80acbjgsdq2cl.xn--p1ai
@@ -23409,6 +23436,7 @@
 +.ymail.com
 +.ymhsf.top
 +.ymhsf1.top
++.yndx.net
 +.ynoproject.net
 +.yo-star.com
 +.yo1health.com
