@@ -388,6 +388,7 @@
 +.59mvmv.com
 +.5axis-machining.com
 +.5beatsbydre.com
++.5ch.io
 +.5ch.net
 +.5fang.cc
 +.5i01.com
@@ -1445,6 +1446,7 @@
 +.amazonvideo.cc
 +.amazonvideo.com
 +.amazonvideodirect.com
++.amazonwebservices.com
 +.amazonworkdocs.com
 +.amc.com
 +.amcn.com
@@ -1642,6 +1644,7 @@
 +.api.news
 +.api.palworldgame.com
 +.api.recaptcha.net
++.api.shuaiapi.com
 +.api.viu.now.com
 +.apiary.io
 +.apiauto.ru
@@ -6534,6 +6537,7 @@
 +.dreamamateurs.com
 +.dreambmw.ca
 +.dreamforce.com
++.dreamgen.com
 +.dreammovies.com
 +.dreamorder.com
 +.dreamteamfc.com
@@ -7812,6 +7816,7 @@
 +.fanqiangzhe.com
 +.fans-here.com
 +.fans17.com
++.fansly.com
 +.fansnudes.com
 +.fansone.co
 +.fansta.me
@@ -10221,6 +10226,7 @@
 +.hiporn.net
 +.hippyhillscomix.com
 +.hipzoom.net
++.historylines.net
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
@@ -12447,6 +12453,7 @@
 +.killwall.com
 +.kilmeadeandfriends.com
 +.kimchi.tv
++.kimi.ai
 +.kimogirl.cc
 +.kimosex.com
 +.kindgirls.com
@@ -12502,6 +12509,7 @@
 +.kissjav.li
 +.kiwi.kz
 +.kiwibrowser.com
++.kiwix.org
 +.kk.stream
 +.kkbox.com
 +.kkddsex7.com
@@ -13503,6 +13511,7 @@
 +.mcdonalds.com.ph
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
++.mceindex.com
 +.mcisco.com
 +.mcpeaceofmind.com
 +.mcrouter.net
@@ -14337,6 +14346,7 @@
 +.moon.fm
 +.moonbbs.com
 +.moonbingo.com
++.moonshot.ai
 +.moozporn.com
 +.morazzia.com
 +.more.tv
@@ -15118,6 +15128,7 @@
 +.nickscipio.com
 +.nicky.xxx
 +.nico
++.nico.ms
 +.nicolepeters.com
 +.niconico.com
 +.night.livedoor.biz
@@ -15357,6 +15368,7 @@
 +.nonstopfap.com
 +.noodlemagazine.com
 +.noosferabank.ru
++.nordcdn.com
 +.nordpass.com
 +.nordstrom.com
 +.nordstromimage.com
@@ -15365,6 +15377,7 @@
 +.nordvpn.com
 +.norsk.mobi
 +.norton.com
++.notegpt.io
 +.notepad-plus-plus.org
 +.noticias-rt.com
 +.notimundo.press
@@ -15376,6 +15389,7 @@
 +.notion.so
 +.notionusercontent.com
 +.nottinghampost.com
++.novelai.net
 +.noveltrove.com
 +.novids.com
 +.novinhabucetuda.com
@@ -18075,6 +18089,7 @@
 +.rutracker.me
 +.rutracker.net
 +.rutracker.org
++.rutracker.wiki
 +.rutrk.org
 +.rutube.ru
 +.rutube.sport
@@ -19871,6 +19886,7 @@
 +.talantix.ru
 +.talentlens.com
 +.taleofthenight.com
++.talkai.info
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
