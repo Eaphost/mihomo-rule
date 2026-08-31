@@ -9033,6 +9033,7 @@
 +.getlantern.org
 +.getmalus.com
 +.getmdl.io
++.getmonero.org
 +.getoutline.org
 +.getpaint.net
 +.getpersonas.com
