@@ -17429,6 +17429,7 @@
 +.qt-project.org
 +.qt.io
 +.qtlcdn.com
++.quakemachinex.com
 +.qualcomm-email.com
 +.qualcomm-inc.com
 +.qualcomm.co.id
