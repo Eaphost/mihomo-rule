@@ -4365,6 +4365,7 @@
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
++.c.go-mpulse.net
 +.c.mi.com
 +.c0930.com
 +.c2cx.com
@@ -5253,6 +5254,7 @@
 +.code.org
 +.codeberg.org
 +.codeberg.page
++.codebuff.com
 +.codecademy.com
 +.codeforaliving.io
 +.codeforces.com
@@ -8118,10 +8120,12 @@
 +.fire-emblem-heroes.com
 +.firearmsworld.net
 +.firebase.com
++.firebase.dev
 +.firebase.io
 +.firebaseapp.com
 +.firebaseio.com
 +.fireemblemawakening.com
++.firefox-portal-detection.com
 +.firefox.com
 +.firefox.hu
 +.firefoxtweetmachine.com
@@ -8527,6 +8531,7 @@
 +.freebrowser.org
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecartoons.biz
 +.freechatnow.com
@@ -20127,6 +20132,7 @@
 +.textnow.me
 +.texttobuy.org
 +.texture.com
++.tfbnw.net
 +.tferwq.com
 +.tfhub.dev
 +.tfiflve.com
@@ -21319,6 +21325,7 @@
 +.vaultify.info
 +.vaultify.net
 +.vaultproject.io
++.vava8.com
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
