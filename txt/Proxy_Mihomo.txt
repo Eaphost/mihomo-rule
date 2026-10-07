@@ -3578,6 +3578,7 @@
 +.blpprofessional.com
 +.blubank.com
 +.blubrry.com
++.blue-plus.net
 +.bluefootcms.com
 +.bluehatil.com
 +.bluehatnights.com
@@ -4473,6 +4474,7 @@
 +.candycrush.com
 +.candycumcity.com
 +.candypleasure.com
++.cangku.moe
 +.caniuse.com
 +.canny.io
 +.canon
@@ -6108,6 +6110,7 @@
 +.dgaqp.com
 +.dgg.gg
 +.dgwav.com
++.dh.net
 +.dh44.lol
 +.dhlestudio.com.co
 +.diablo.com
@@ -9833,7 +9836,9 @@
 +.hanime.tv
 +.hanime.xxx
 +.hanime.xyz
++.hanime1.com
 +.hanime1.me
++.hanimeone.me
 +.hanr-bao.mom
 +.hanzhen.xmulib.org
 +.hao21.xyz
@@ -11607,6 +11612,7 @@
 +.ip.sb
 +.ip73.com
 +.ipa-iphone.net
++.ipac.global
 +.ipad.host
 +.ipad.wang
 +.ipad3.com
@@ -11926,6 +11932,7 @@
 +.javcc.cc
 +.javcc.com
 +.javcdn.cc
++.javchu.com
 +.javcl.com
 +.javct.net
 +.javcup.com
@@ -13454,6 +13461,7 @@
 +.mate-desktop.org
 +.material.io
 +.mathoverflow.net
++.matichon.co.th
 +.matome-plus.com
 +.matome-plus.net
 +.matrix.org
@@ -14231,6 +14239,7 @@
 +.moeerolibrary.com
 +.moefuns.co
 +.moeimg.net
++.moeli-desu.com
 +.moepedia.net
 +.moeshare.cc
 +.moez-m.com
@@ -14858,6 +14867,7 @@
 +.nationalgeographicpartners.com
 +.nationalinterest.org
 +.nationalreview.com
++.nationthailand.com
 +.nationwide.com
 +.naturalvoices.com
 +.nature.com
@@ -14910,6 +14920,7 @@
 +.near.by
 +.nebay.net
 +.neborder.com
++.ned.org
 +.nee4you.com
 +.needforspeed.com
 +.needforspeedboost.com
@@ -17932,6 +17943,7 @@
 +.rockstargames.com
 +.rockstarnorth.com
 +.rockylinux.org
++.rocmgov.org
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -23195,6 +23207,7 @@
 +.xvxxtube.com
 +.xwbo.com
 +.xx-map.com
++.xx.net
 +.xx9.app
 +.xxbay.com
 +.xxbook.cc
