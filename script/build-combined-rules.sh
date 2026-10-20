@@ -16,6 +16,7 @@ error() {
 declare -A RULES=(
     [Ad]="sort-adblock.py
         https://raw.githubusercontent.com/Eaphost/ruler/refs/heads/main/ad.txt
+        https://fastly.jsdelivr.net/gh/abclq/home-dns-adblock@main/dist/adguard-dns.txt
     "
     [Proxy]="sort-clash.py
         https://raw.githubusercontent.com/666OS/rules/refs/heads/release/mihomo/domain/Proxy.txt
