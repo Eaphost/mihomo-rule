@@ -31,10 +31,6 @@
 +.sf3-ttcdn-tos.pstatp.com
 +.aeventlog.beacon.qq.com
 +.api.iegadp.qq.com
-+.wxa.wxs.qq.com
-+.wximg.wxs.qq.com
-+.wxs.qq.com
-+.wxsmw.wxs.qq.com
 +.qrstuvwxyzab.com
 +.v11-reading-ad.qznovelvod.com
 +.v13-reading-ad.qznovelvod.com
