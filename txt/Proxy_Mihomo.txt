@@ -5401,6 +5401,7 @@
 +.conscrypt.org
 +.consentmanager.net
 +.consentpro.com
++.console.typesafe.ai
 +.constructware.com
 +.consul.io
 +.contactossexoecuador.com
@@ -8846,6 +8847,7 @@
 +.g0v.social
 +.g1.com.br
 +.g6hentai.com
++.ga.jspm.io
 +.gab.com
 +.gabocorp.com
 +.gacebook.com
