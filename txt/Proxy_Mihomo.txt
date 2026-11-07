@@ -3093,6 +3093,7 @@
 +.beget.app
 +.beget.cloud
 +.beget.com
++.beget.email
 +.beget.hosting
 +.beget.pro
 +.beget.ru
@@ -3632,6 +3633,7 @@
 +.bmia.org
 +.bmj.com
 +.bml.info
++.bmonkeys.net
 +.bmw
 +.bmw-abudhabi.com
 +.bmw-adventskalender.com
@@ -3994,6 +3996,7 @@
 +.bokep.net
 +.bokepseks.org
 +.bokepvidz.com
++.boldgrid.com
 +.bolehvpn.net
 +.bollywoodlife.com
 +.boltdns.net
@@ -5246,6 +5249,7 @@
 +.cloudproxy.app
 +.cloudrobotics.com
 +.cloudvolumes.com
++.cloudwp.dev
 +.cloudyzgirl.com
 +.cloupia.com
 +.cloupia.net
@@ -12965,6 +12969,9 @@
 +.lilhumpers.com
 +.liliav.com
 +.lilith-soft.com
++.limbuscompany.global
++.limbuscompanyapi.com
++.limbuscompanycdn.org
 +.limelight.com
 +.limertw.cc
 +.limeteensex.com
@@ -17412,6 +17419,7 @@
 +.projectcircuitbreaker.com
 +.projecteuclid.org
 +.projectjav.com
++.projectmoon.studio
 +.projectmurphy.net
 +.projectpoint.com
 +.projectpoint.net
@@ -19129,6 +19137,7 @@
 +.skillshare.com
 +.skimtube.com
 +.skinstrip.net
++.skinswap.com
 +.skokka.com
 +.sksarab.top
 +.skunkgirl.cc
@@ -19736,6 +19745,7 @@
 +.steamladder.com
 +.steamofporn.com
 +.steamos.cloud
++.steampeek.hu
 +.steampowered.com
 +.steamserver.net
 +.steamstatic.com
@@ -22439,7 +22449,9 @@
 +.webex.com.br
 +.webex.com.mx
 +.webex.es
++.webflow-ext.com
 +.webflow.com
++.webflow.io
 +.webgata.net
 +.webgirlsonline.net
 +.webhosting.com
@@ -22460,6 +22472,7 @@
 +.webrtc.org
 +.websdr.org
 +.webshare.io
++.website-files.com
 +.website.new
 +.webtoons.com
 +.webtoonscorp.com
